@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What lesson does the tortoise teach us?",
+    "expected_keywords": ["perseverance", "steady", "patience", "slow"],
+    "expected_source": "The Tortoise and the Hare"
+  },
+  {
+    "question": "Which fables involve foxes?",
+    "expected_keywords": ["fox", "grapes", "crow", "cheese"],
+    "expected_source": "The Fox and the Grapes"
+  },
+  {
+    "question": "Tell me about the boy who cried wolf",
+    "expected_keywords": ["wolf", "lie", "trust", "shepherd", "village"],
+    "expected_source": "The Boy Who Cried Wolf"
+  },
+  {
+    "question": "What do the fables say about greed?",
+    "expected_keywords": ["greed", "greedy", "want", "lose", "content"],
+    "expected_source": "Various fables"
+  },
+  {
+    "question": "What is the moral of the ant and the grasshopper?",
+    "expected_keywords": ["prepare", "work", "winter", "lazy", "summer"],
+    "expected_source": "The Ant and the Grasshopper"
+  },
+  {
+    "question": "What happens when the fox can't reach the grapes?",
+    "expected_keywords": ["sour", "despise", "cannot", "reach", "vine"],
+    "expected_source": "The Fox and the Grapes"
+  },
+  {
+    "question": "How does the crow lose its cheese?",
+    "expected_keywords": ["flattery", "fox", "sing", "cheese", "beak"],
+    "expected_source": "The Fox and the Crow"
+  }
+]
