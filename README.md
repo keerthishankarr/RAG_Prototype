@@ -2,6 +2,10 @@
 
 A complete Retrieval-Augmented Generation (RAG) system built with Aesop's Fables for learning and experimentation. This prototype provides full observability into every step of the RAG pipeline.
 
+<img width="1437" height="712" alt="image" src="https://github.com/user-attachments/assets/ed034d4a-2561-45ea-bae4-55bdc2d60e7e" />
+
+
+
 ## Features
 
 - 🚀 **Complete RAG Pipeline**: Embedding generation → Vector search → LLM generation
